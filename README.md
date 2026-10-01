@@ -252,4 +252,4 @@ The test suite covers:
 
 > [!CAUTION]
 > **MANDATORY MEDICAL DISCLAIMER:**
-> AI-generated output is intended for clinical decision support and research/prototype purposes. It is not a definitive diagnosis and must be reviewed by a qualified healthcare professional.
+> AI-generated output is intended for clinical decision support and research/prototype purposes. It is not a definitive diagnosis and must be reviewed by a qualified healthcare professional..
